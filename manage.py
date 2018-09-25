@@ -14,5 +14,3 @@ if __name__ == '__main__':
         ) from exc
 		#hello 
     execute_from_command_line(sys.argv)
-	
-	#test test
