@@ -1,3 +1,2 @@
 README.md
-\AppCha\__pycache__\*
-/recipe/__pycache__/*
+*.pyc
